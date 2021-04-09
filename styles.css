@@ -19,7 +19,7 @@ body {
   background: linear-gradient(90deg,#fff 0%, #000 0% 31%, #fff 31%);
   height: 900px;
   width: 1440px;
-  left: 0px;
+  /* left: 0px; */
 }
 
 .logo {
